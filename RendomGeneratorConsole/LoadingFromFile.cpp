@@ -1,5 +1,3 @@
-#include <iostream>
-#include <Windows.h>
 #include "Headers.h"
 
 using namespace std;

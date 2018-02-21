@@ -1,6 +1,3 @@
-#include <iostream>
-#include <Windows.h>
-#include <vector>
 #include "Headers.h"
 
 using namespace std;
@@ -11,7 +8,7 @@ int main() {
 
 	try {
 		do { 
-			result = menu(); 
+			result = menu();
 		} while (result!=0);
 	}
 
